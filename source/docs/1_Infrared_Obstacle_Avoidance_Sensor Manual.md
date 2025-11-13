@@ -52,9 +52,9 @@ For more information of this chip, you may refer to **"[Infrared obstacle avoida
 </tr>
 <tr>
 <td style="text-align: center;">OUT</td>
-<td style="text-align: center;"><p>When no obstacle is detected, the output remains HIGH (1).</p>
-<p>When an obstacle is detected, the output switches to LOW (0).<br />
-The Detection range is adjustable.</p></td>
+<td style="text-align: center;">When no obstacle is detected, the output remains HIGH (1).
+When an obstacle is detected, the output switches to LOW (0).<br />
+The Detection range is adjustable.</td>
 </tr>
 <tr>
 <td style="text-align: center;">NC</td>
@@ -65,7 +65,7 @@ The Detection range is adjustable.</p></td>
 
 ### 1.3.2 Specifications
 
-<table  class="docutils-nobg" style="margin:0 auto" border="1">
+<table class="docutils-nobg" border="1">
 <colgroup>
 <col style="width: 50%" />
 <col style="width: 50%" />
@@ -73,78 +73,76 @@ The Detection range is adjustable.</p></td>
 <tbody>
 <tr>
 <td colspan="2" style="text-align: center;">
-<p><strong>1.Infrared Obstacle Avoidance Sensor</strong></p>
-</td>
-</tr>
-<!-- 参数与规格表头 -->
-<tr>
-<td style="text-align: center;">
-<p><strong>Parameter</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>Specification</strong></p>
-</td>
-</tr>
-<!-- 各参数行 -->
-<tr>
-<td style="text-align: center;">
-<p><strong>Working Voltage</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>DC 5V</strong></p>
+<strong>1.Infrared Obstacle Avoidance Sensor</strong>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;">
-<p><strong>Operating Current</strong></p>
+<strong>Parameter</strong>
 </td>
 <td style="text-align: center;">
-<p><strong>40mA</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-<p><strong>Detection Range</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>2~ 25cm</strong></p>
+<strong>Specification</strong>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;">
-<p><strong>LED1 Description</strong></p>
+<strong>Working Voltage</strong>
 </td>
 <td style="text-align: center;">
-<p><strong>Lights up when an obstacle is detected.</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-<p><strong>Detection Range Adjustment Method</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>Adjustable via miniature potentiometer</strong></p>
+<strong>DC 5V</strong>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;">
-<p><strong>Connector Type</strong></p>
+<strong>Operating Current</strong>
 </td>
 <td style="text-align: center;">
-<p><strong>5264-4AW</strong></p>
+<strong>40mA</strong>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;">
-<p><strong>Dimensions</strong></p>
+<strong>Detection Range</strong>
 </td>
 <td style="text-align: center;">
-<p><strong>50mm×20mm</strong></p>
+<strong>2~ 25cm</strong>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<strong>LED1 Description</strong>
+</td>
+<td style="text-align: center;">
+<strong>Lights up when an obstacle is detected.</strong>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<strong>Detection Range Adjustment Method</strong>
+</td>
+<td style="text-align: center;">
+<strong>Adjustable via miniature potentiometer</strong>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<strong>Connector Type</strong>
+</td>
+<td style="text-align: center;">
+<strong>5264-4AW</strong>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<strong>Dimensions</strong>
+</td>
+<td style="text-align: center;">
+<strong>50mm×20mm</strong>
 </td>
 </tr>
 <tr>
 <td colspan="2" style="text-align: center;">
-<p><strong>Modular installation, compatible with Lego series.</strong></p>
+<strong>Modular installation, compatible with Lego series.</strong>
 </td>
 </tr>
 </tbody>
