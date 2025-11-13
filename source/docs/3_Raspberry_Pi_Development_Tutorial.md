@@ -8,7 +8,7 @@
 
 This section uses DuPont wires to connect the infrared obstacle avoidance sensor's 5V, GND, and OUT (GPIO 24) as an example, the connection method is shown in the figure below:
 
-<img class="common_img" src="../_static/media/chapter_1/section_3/media/image4.png" style="width:500px" />
+<img class="common_img" src="../_static/media/chapter_1/section_3/media/image4.png" style="width:700px" />
 
 > [!NOTE]
 >

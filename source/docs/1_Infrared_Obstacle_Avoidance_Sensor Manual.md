@@ -14,7 +14,7 @@ When the infrared receiving tube does not receive infrared light, the signal ter
 
 During operation, you can determine whether there is an obstacle ahead by reading the status of the sensor's OUT signal pin. In addition, the sensor is equipped with a miniature potentiometer, which can be rotated to adjust the detection range. If you adjust the potentiometer to the threshold between ON and OFF, the sensor will achieve its maximum detection distance.
 
-<img class="common_img" src="../_static/media/chapter_1/section_1/media/image3.png" style="width:100px" />
+<img class="common_img" src="../_static/media/chapter_1/section_1/media/image3.png" style="width:120px" />
 
 ## 1.2 Notice
 
