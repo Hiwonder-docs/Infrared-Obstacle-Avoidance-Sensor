@@ -50,7 +50,7 @@ The infrared obstacle avoidance sensor prints "**1**" when no obstacle is detect
 
 <img class="common_img" src="../_static/media/chapter_1/section_4/media/image7.png" style="width:5.7625in;height:3.30417in" />
 
-## 2.3 Program Brief Analysis
+### 4.2.3 Program Brief Analysis
 
 - **Import Libraries**
 
